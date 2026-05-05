@@ -1,13 +1,15 @@
 # Hi, I'm Michael 👋
 
-Sophomore Computer Science student interested in databases, systems programming, and computer vision.
+Programmer passionate about machine learning, computer vision, and building things that actually work.
+Currently a sophomore in CS — writing code in C, Python, and whatever the problem calls for.
 
 ## Tech Stack
 
 **Languages:** Python · C · C++ · JavaScript · SQL  
+**ML / CV:** OpenCV · NumPy  
 **Databases:** PostgreSQL · PL/pgSQL  
 **Frameworks:** Node.js · Express · React  
-**Tools:** Git · OpenCV · Vite
+**Tools:** Git · Linux · Vite
 
 ## Projects
 
